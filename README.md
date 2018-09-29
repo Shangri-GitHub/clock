@@ -1,6 +1,10 @@
 # clock
 caves 实现一个手表
 
+**首页** <br>
+
+![](https://github.com/Shangri-GitHub/clock/QQ20180929-173249-HD.gif) <br>
+
 ```
 <canvas id="clock" style="background: black" width="500" height="500"></canvas>
 const THEME = {
